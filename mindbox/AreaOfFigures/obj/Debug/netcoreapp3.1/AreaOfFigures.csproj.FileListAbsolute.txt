@@ -1,0 +1,10 @@
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\HoJluK\source\repos\mindbox\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb

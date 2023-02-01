@@ -1,0 +1,17 @@
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\mindbox.exe
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\mindbox.deps.json
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\mindbox.runtimeconfig.json
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\mindbox.runtimeconfig.dev.json
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\mindbox.dll
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\mindbox.pdb
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\HoJluK\source\repos\mindbox\mindbox\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.csproj.AssemblyReference.cache
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.AssemblyInfoInputs.cache
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.AssemblyInfo.cs
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.csproj.CoreCompileInputs.cache
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.csproj.CopyComplete
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.dll
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.pdb
+C:\Users\HoJluK\source\repos\mindbox\mindbox\obj\Debug\netcoreapp3.1\mindbox.genruntimeconfig.cache
